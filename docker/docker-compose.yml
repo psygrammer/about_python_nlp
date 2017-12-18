@@ -1,0 +1,7 @@
+about_python_nlp:
+  image: psygrammer/about_python_nlp:0.1
+  ports:
+    - "8888:8888"
+  volumes:
+    - ../:/home/jovyan/work/about_python_nlp
+  tty: true
