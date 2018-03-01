@@ -1,5 +1,5 @@
 about_python_nlp:
-  image: psygrammer/about_python_nlp:0.4
+  image: psygrammer/about_python_nlp:0.5
   ports:
     - "8888:8888"
   volumes:
